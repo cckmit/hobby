@@ -31,7 +31,7 @@
         <guava.version>18.0</guava.version>
         <junit.version>4.12</junit.version>
         <commons.codec.version>1.11</commons.codec.version>
-        <fastjson.version>1.2.59</fastjson.version>
+        <fastjson.version>1.2.83</fastjson.version>
         <dom4j.version>1.6.1</dom4j.version>
         <webmagic.core.version>0.7.3</webmagic.core.version>
         <webmagic.extension.version>0.7.3</webmagic.extension.version>
